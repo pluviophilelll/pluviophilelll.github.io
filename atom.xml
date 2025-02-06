@@ -6,7 +6,7 @@
   <link href="https://pluviophilelll.github.io/atom.xml" rel="self"/>
   
   <link href="https://pluviophilelll.github.io/"/>
-  <updated>2025-02-06T00:51:55.145Z</updated>
+  <updated>2025-02-06T03:11:03.092Z</updated>
   <id>https://pluviophilelll.github.io/</id>
   
   <author>
@@ -17,23 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://pluviophilelll.github.io/2025/02/05/hello-world/"/>
-    <id>https://pluviophilelll.github.io/2025/02/05/hello-world/</id>
-    <published>2025-02-05T12:53:00.000Z</published>
-    <updated>2025-02-06T00:51:55.145Z</updated>
+    <title>test</title>
+    <link href="https://pluviophilelll.github.io/2025/02/06/test/"/>
+    <id>https://pluviophilelll.github.io/2025/02/06/test/</id>
+    <published>2025-02-06T03:04:05.000Z</published>
+    <updated>2025-02-06T03:11:03.092Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;好了&quot;&gt;好了&lt;/h2&gt;
+&lt;p&gt;新网站搭建好了&lt;span class=&quot;bd-box&quot;&gt;&lt;h-char class=&quot;bd bd-beg&quot;&gt;&lt;h-inner&gt;，&lt;/h-inner&gt;&lt;/h-char&gt;&lt;/span&gt;以前使用的wordpress&lt;span</summary>
         
       
     
     
     
+    
+    <category term="网站搭建" scheme="https://pluviophilelll.github.io/tags/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
